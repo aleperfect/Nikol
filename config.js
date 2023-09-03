@@ -30,7 +30,7 @@ global.Key360 = ["964f-0c75-7afc"];
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
 //Agrega el Idioma que quieres que tenga Ale
-//Add the language you want GataBot-MD to have
+//Add the language you want Ale to have
 //  es = Español         id = Bahasa Indonesia
 //  en = English         pt = Português 
 //  ar = عرب             hi = Hindi Language
@@ -117,13 +117,13 @@ global.vs = "1.4.9";
 global.vsJB = "2.0";
 
 global.gt = "𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃";
-global.yt = "https://youtube.com/@gatadios";
-global.yt2 = "https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s";
-global.ig = "https://www.instagram.com/gata_dios";
-global.md = "https://github.com/GataNina-Li/GataBot-MD";
-global.fb = "https://www.facebook.com/groups/872989990425789/";
+global.yt = "https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo";
+global.yt2 = "https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo";
+global.ig = "https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo";
+global.md = "https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo";
+global.fb = "https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo";
 
-global.nna = 'https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo' //UPDATE GATABOT
+global.nna = 'https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo' //UPDATE ALEIZN
 global.nn2 = 'https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo' //UPDATE 2
 global.nna2 = 'https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo' //Help
 global.nn = 'https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo' //Grupo 1
